@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JavaScript Demo</title>
+	<script type="text/javascript">
+	var a=10;
+	var object={make:bmw, model:550i};
+	
+	function changeobj(x) {
+			x.model("ssti06");
+			return x;
+		}	
+	function display(x, y){
+		 x.make("cdek");
+		 y.model("5001");
+		 return x, y;
+	}
+
+
+	document.getElementById("CONTENT1").innerHTML=changeobj(x);	
+	document.getElementById("CONTENT2").innerHTML=display(x);
+
+	</script>
+</head>
+<body>
+<h1> THIS IS JUST jAVASCRIPT DEMO </h1>
+<div id="DIV1">
+		<P>
+				<SPAN ID="CONTENT1"></SPAN>
+				<SPAN ID="CONTENT2"></SPAN>
+				<SPAN ID="CONTENT3"></SPAN>
+				<SPAN ID="CONTENT4"></SPAN>
+				<span id="content5"></span>
+		</P>
+</div>
+</body>
+</html>php

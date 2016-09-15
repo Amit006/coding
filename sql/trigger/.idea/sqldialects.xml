@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/649fd558-d76f-45eb-b32e-f564a8fc360e/q3.sql" dialect="OracleSqlPlus" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/649fd558-d76f-45eb-b32e-f564a8fc360e/q5.sql" dialect="OracleSqlPlus" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/649fd558-d76f-45eb-b32e-f564a8fc360e/q6.sql" dialect="OracleSqlPlus" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/649fd558-d76f-45eb-b32e-f564a8fc360e/q7.sql" dialect="OracleSqlPlus" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/649fd558-d76f-45eb-b32e-f564a8fc360e/q9.sql" dialect="OracleSqlPlus" />
+  </component>
+</project>
